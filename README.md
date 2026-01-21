@@ -29,10 +29,8 @@
 Training-File-Auto-Organizer/
 │
 ├── main.py # 主程序脚本（核心代码）
-├── requirements.txt # 项目依赖库列表
 ├── README.md # 项目说明文档（本文档）
 ├── config_guide.md # 详细配置指南
-└── user_manual.md # 给非技术同事的极简使用手册
 
 ## 快速开始
 1.  **安装Python**：确保你的电脑已安装Python 3.6或以上版本。
@@ -46,4 +44,5 @@ Training-File-Auto-Organizer/
 
 ## 作者
 作者是0代码基础小白，本脚本由作者与AI合力完成。作者负责拆解业务逻辑，AI负责编写脚本。
+
 
